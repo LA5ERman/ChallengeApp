@@ -1,0 +1,23 @@
+C# 
+
+int
+long (xxL)
+
+float (xxF) 
+double
+decimal
+
+bool
+
+char
+string
+
+
+
+Equality operator ==
+Inequality operator != 
+
+AND &&
+OR ||
+NOT !
+
